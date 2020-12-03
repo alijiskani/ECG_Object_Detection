@@ -1,0 +1,20 @@
+Guide for Cardiac Disorder Classification
+Perform object detection on 12 Leads Based ECG images using Tensorflow Object Detection API
+Use Google Colab free GPU for training and Google Drive to keep everything synced.
+
+
+STEPS
+1. Upload ECG Images and Labels on G Drive.
+2. Setting up the environment.
+3. Importing and Installing Required Packages.
+4. Preprocessing Images and Labels.
+5. Downloading Tensorflow model.
+6. Generating TFRecords.
+7. Selecting and Downloading a Pre-trained model.
+8. Configuring the Training Pipeline.
+9. Tensorboard.
+10. Training.
+11. Export the trained model.
+12. ENJOY
+---------------------------------------------------
+
